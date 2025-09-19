@@ -54,8 +54,8 @@ All actions are confirmed via SMS.
   * Type `"stop"` in Serial Monitor → Manual OFF
 * **Auto mode (sensors)**:
 
-  * PIR or mmWave detects presence → Wait 10s → Confirm → Turn **ON**
-  * No presence detected → Wait 10s → Confirm → Turn **OFF**
+  * PIR or mmWave detects presence → Wait 10s(the folder ones have 30s) → Confirm → Turn **ON**
+  * No presence detected → Wait 10s(the folder ones have 30s) → Confirm → Turn **OFF**
 * **IR sending**:
 
   * Sends **COOLIX hex command**
