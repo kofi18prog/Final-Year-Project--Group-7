@@ -16,8 +16,8 @@ const uint16_t kIrLed = 15; // D8
 
 // --- SIM / SMS ---
 #define SIM_BAUD 9600
-const char AUTHORIZED_NUMBER[] = "+233504009883"; // only accept commands from this number
-const char ALERT_NUMBER[] = "+233504009883";      // send confirmations to this number
+const char AUTHORIZED_NUMBER[] = "+233xxxxxxxxx"; // only accept commands from this number
+const char ALERT_NUMBER[] = "+233xxxxxxxxx";      // send confirmations to this number
 
 // --- IR raw arrays & hex codes ---
 // COOLIX ON (raw)
